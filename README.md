@@ -1,6 +1,6 @@
 # Hello I'm Marta Coiro 👩‍💻
 
-**Cybersecurity & Computer Science Student | Junior Developer**
+**Cybersecurity & Computer Science Student**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marta-coiro-650657227/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/MartaCoiro)
