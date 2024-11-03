@@ -27,7 +27,7 @@
   - **Interfaccia Web:** sviluppo front-end con HTML, CSS e JavaScript
   - **Documentazione di Progetto:** creazione e revisione per la presentazione finale.
 
-  > 🔗 [Repository su GitHub](https://github.com/MartaCoiro/MusicConsole.git)
+  >
 
 - **Sense Square Internship** 🌍  
   Durante il mio tirocinio in Sense Square, ho lavorato su un progetto di machine learning per analizzare immagini satellitari (Sentinel 2) con l'obiettivo di studiare il suolo europeo. Sviluppato in Python, questo progetto mi ha dato l’opportunità di applicare tecniche di analisi e mappatura dei dati.
