@@ -33,7 +33,7 @@
 - **Sense Square Internship** 🌍  
   Durante il mio percorso di tirocinio triennale in Sense Square, ho lavorato su un progetto di machine learning per analizzare immagini satellitari (Sentinel 2) con l'obiettivo di studiare il suolo europeo. Sviluppato in Python, questo progetto mi ha dato l’opportunità di applicare tecniche di analisi e mappatura dei dati.
 
--**DefNet**
+- **DefNet**
 Per il corso di Enterprise Mobile Application Development insieme al mio team ed in collaborazione con l'azienda LinearIt abbiamo reallizzato un'applicazione innovativa in ambito di sicurezza, DefNet.Un dispositivo hardware realizzato mediante Raspberry Pi 4B che si connette alla rete consentendo una navigazione sicura e protetta, e fornendo servizi di IDS/IPS, blocco delle pubblicità e parental control. Il tutto accompagnato da un'applicazione mobile molto semplice ed intuitiva dove l'utente in prima persona può gestire e monitorare la sua rete.
 Abbiamo partecipato all'evento App Challenge dove abbiamo conquistato il podio.
 
