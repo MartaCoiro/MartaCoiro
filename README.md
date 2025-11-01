@@ -7,8 +7,8 @@
 
 ---
 
-🎓 Attualmente iscritta alla magistrale in Cybersecurity, dopo una solida formazione in Informatica presso l'Università degli Studi di Salerno. Ho maturato esperienze in programmazione, sviluppo web e data analysis applicata, con una particolare attenzione alla sicurezza informatica e al machine learning.
-
+🎓 Fin da bambina, la curiosità per la tecnologia mi ha spinta a esplorare come il mondo digitale potesse essere non solo utile, ma anche sicuro. Oggi, dopo un percorso accademico che mi ha portata a laurearmi con lode, unisco passione e competenze tecniche per progettare soluzioni software sicure e innovative.
+Durante il mio percorso ho avuto modo di lavorare su progetti concreti di cybersecurity, penetration testing, mobile development e machine learning, tra cui un’app premiata all’App Challenge in collaborazione con LinearIT. Ho approfondito tematiche come crittografia, sicurezza dei dati, digital forensics e cloud security, realizzando anche una pipeline di sicurezza automatizzata per Docker e Kubernetes.
 ---
 
 ## 🧑‍💻 Skills tecniche
