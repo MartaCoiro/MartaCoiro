@@ -39,7 +39,8 @@ Abbiamo partecipato all'evento App Challenge dove abbiamo conquistato il podio.
 
 ## 📚 Formazione Accademica
 
-- **Magistrale in Cybersecurity** (in corso)
+- **Magistrale in Cybersecurity**, Università degli Studi di Salerno
+  - Tesi: Offuscamento del codice tra teoria e pratica: la piattaforma ObfuSee
 - **Laurea Triennale in Informatica**, Università degli Studi di Salerno
   - Tesi: Sviluppo di algoritmi per l'analisi del suolo mediante immagini satellitari
 
