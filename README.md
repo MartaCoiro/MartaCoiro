@@ -42,7 +42,7 @@ Abbiamo partecipato all'evento App Challenge dove abbiamo conquistato il podio.
 - **Magistrale in Cybersecurity**, Università degli Studi di Salerno
   - Tesi: Offuscamento del codice tra teoria e pratica: la piattaforma ObfuSee
 - **Laurea Triennale in Informatica**, Università degli Studi di Salerno
-  - Tesi: Sviluppo di algoritmi per l'analisi del suolo mediante immagini satellitari
+  - Tesi: Sviluppo di algoritmi per l'analisi del suolo mediante le immagini del satellite Sentinel-2 della Costellazione Copernicus
 
 ## 🎨 Passioni
 
